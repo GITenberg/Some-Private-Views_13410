@@ -1,0 +1,36 @@
+_repo: Some-Private-Views_13410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Payn, James
+    birthdate: 1830
+    deathdate: 1898
+    gutenberg_agent_id: '4707'
+    url: http://www.gutenberg.org/2009/agents/4707
+    wikipedia: http://en.wikipedia.org/wiki/James_Payn
+description: 'From "The Nineteenth century" review: The midway inn. The critic on
+  the hearth. Sham admiration in literature. The pinch of poverty. Story-telling.
+  Penny fiction. The literary calling and its future.--From "The Times". Hotels. Maid-servants.
+  Man-servants. Whist-players. Relations. Invalid literature. Wet holidays. Travelling
+  companions.'
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: 'From "The Nineteenth century" review: The Midway Inn. The critic
+  on the hearth. Sham admiration in literature. The pinch of poverty. Story-telling.
+  Penny fiction. The literary calling and its future -- From "The Times": Hotels.
+  Maid-servants. Man-servants. Whist-players. Relations. Invalid literature. Wet holidays.
+  Travelling companions.'
+title: Some Private Views
+url: http://www.gutenberg.org/ebooks/13410
